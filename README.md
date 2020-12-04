@@ -1,0 +1,1 @@
+My first android project, it was made for an faculty project for the course Development of Mobile Aplications("Razvoj mobilinih aplikacija"). This project should only be viewed as a proof of concept,not a full-fledged serious project.
