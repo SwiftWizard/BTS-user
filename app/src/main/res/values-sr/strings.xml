@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTS - korisnik</string>
+    <string name="work_days">Radni dani</string>
+    <string name="saturday">Subota</string>
+    <string name="sunday">Nedelja</string>
+    <string name="add_to_favorites">Dodaj u omiljene</string>
+    <string name="remove_from_favorites">Izbaci iz omiljenih</string>
+    <string name="choose_a_line">Izaberi liniju</string>
+    <string name="mainLabel">Javni prevoz Novi Sad</string>
+    <string name="my_lines">Moje linije</string>
+    <string name="all_lines">Sve linije</string>
+    <string name="bus_location">Lokacija busa</string>
+    <string name="photos">Slike</string>
+</resources>
